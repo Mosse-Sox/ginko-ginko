@@ -25,26 +25,36 @@
     "dropdown.border": "#f8f1bb",
 
     "editor.background": "#ebdc94",
-    "editor.findMatchBackground": "#e38940",
+    "editor.findMatchBackground": "#d9833d",
     "editor.findMatchBorder": "#fff0a7",
     "editor.findMatchHighlightBackground": "#e6a785c5",
     "editor.findMatchHighlightBorder": "#f7ddc230",
     "editor.foreground": "#c02b78",
-    "editor.lineHighlightBackground": "#de0e7350",
-    "editor.selectionBackground": "#e54fc9b1",
-    "editor.selectionHighlightBackground": "#ffa7dd6b",
+    "editor.lineHighlightBackground": "#e0a08b50",
+    "editor.selectionBackground": "#3f7aba88",
+    "editor.selectionHighlightBackground": "#cb529d6b",
     "editor.selectionHighlightBorder": "#f899def0",
-    "editorBracketMatch.background": "#e78866",
+    "editor.wordHighlightBackground": "#cb2b716d",
+    "editor.wordHighlightStrongBackground": "#5c98d86d",
+
+    "editorBracketMatch.background": "#e1ae9b",
     "editorBracketMatch.border": "#f8e1c97f",
-    "editorCursor.foreground": "#db8354",
+
+    "editorCursor.foreground": "#548cdb",
+
     "editorError.foreground": "#0566d4e4",
+
     "editorGroup.border": "#be803d30",
     "editorGroupHeader.tabsBackground": "#f06850c8",
+
     "editorGutter.addedBackground": "#ffaf7d60",
     "editorGutter.deletedBackground": "#ff876360",
     "editorGutter.modifiedBackground": "#ffe0c460",
+
     "editorHoverWidget.background": "#facdb6",
-    "editorHoverWidget.border": "#f4dbbf10",
+    "editorHoverWidget.border": "#f6906ee2",
+    "editorHoverWidget.statusBarBackground": "#e2b47bae",
+
     "editorIndentGuide.activeBackground": "#df6fb6",
     "editorIndentGuide.background": "#f6710c70",
     "editorInfo.foreground": "#ea8c4470",
@@ -53,19 +63,19 @@
     "editorLink.activeForeground": "#e5749e",
     "editorMarkerNavigation.background": "#ffabcf05",
     "editorOverviewRuler.border": "#81436a",
-    "editorOverviewRuler.errorForeground": "#21afe840",
-    "editorOverviewRuler.findMatchForeground": "#ffa7d3",
-    "editorOverviewRuler.infoForeground": "#ec81d840",
-    "editorOverviewRuler.warningForeground": "#ff94ff70",
+    "editorOverviewRuler.errorForeground": "#21b0e8af",
+    "editorOverviewRuler.findMatchForeground": "#eb6fad",
+    "editorOverviewRuler.infoForeground": "#e949cc40",
+    "editorOverviewRuler.warningForeground": "#fb6bfb70",
     "editorRuler.foreground": "#cb9f7e",
-    "editorSuggestWidget.background": "#d46a31",
-    "editorSuggestWidget.border": "#f4bfd910",
-    "editorSuggestWidget.foreground": "#f8bbd3",
-    "editorSuggestWidget.highlightForeground": "#ffdd94",
+    "editorSuggestWidget.background": "#f1ae8a",
+    "editorSuggestWidget.border": "#e73a17d1",
+    "editorSuggestWidget.foreground": "#da1664",
+    "editorSuggestWidget.highlightForeground": "#db5415",
     "editorSuggestWidget.selectedBackground": "#ffcfa720",
     "editorWarning.foreground": "#ffc07d",
     "editorWhitespace.foreground": "#dfbc8c",
-    "editorWidget.background": "#eaa38c",
+    "editorWidget.background": "#e07a58",
     "editorWidget.foreground": "#d84f22",
     "editorWidget.border": "#ffdf94",
     "editorWidget.resizeBorder": "#ffd2a7",
@@ -73,12 +83,12 @@
     "extensionButton.prominentBackground": "#ffbc7d90",
     "extensionButton.prominentHoverBackground": "#ff9263",
 
-    "focusBorder": "#f4bfdd00",
+    "focusBorder": "#d13c9000",
     "foreground": "#d32008fa",
 
     "gitDecoration.conflictingResourceForeground": "#e93718",
     "gitDecoration.deletedResourceForeground": "#47b0da",
-    "gitDecoration.ignoredResourceForeground": "#fdf9d5",
+    "gitDecoration.ignoredResourceForeground": "#ed0959",
     "gitDecoration.modifiedResourceForeground": "#c93b25",
     "gitDecoration.untrackedResourceForeground": "#a7470f",
 
@@ -232,7 +242,7 @@
 
     "tree.indentGuidesStroke": "#cb8c7e",
 
-    "widget.shadow": "#814e4330"
+    "widget.shadow": "#814e43e2"
   },
   "tokenColors": [
     {
@@ -499,7 +509,7 @@
         "entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#ee75a7"
+        "foreground": "#e34385"
       }
     },
     {
@@ -574,19 +584,19 @@
     {
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#1bbe2e"
+        "foreground": "#547fdc"
       }
     },
     {
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#23b434"
+        "foreground": "#b4236b"
       }
     },
     {
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#26c83e"
+        "foreground": "#c85f26"
       }
     },
     {
