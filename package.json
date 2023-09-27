@@ -2,7 +2,7 @@
   "name": "ginko-ginko",
   "displayName": "Ginko Ginko",
   "description": "yellow, orange, blue, magenta color theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "mossesox",
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "themes": [
       {
         "label": "Ginko Ginko",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/ginko-ginko-color-theme.json"
       }
     ]

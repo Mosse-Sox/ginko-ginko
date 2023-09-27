@@ -1,5 +1,5 @@
 {
-  "name": "blue-blinku",
+  "name": "ginko-ginko",
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
@@ -36,7 +36,7 @@
     "editorBracketMatch.border": "#f8e1c97f",
     "editorCursor.foreground": "#db8354",
     "editorError.foreground": "#63acff70",
-    "editorGroup.border": "#b3957430",
+    "editorGroup.border": "#be803d30",
     "editorGroupHeader.tabsBackground": "#f7869a9f",
     "editorGutter.addedBackground": "#ffaf7d60",
     "editorGutter.deletedBackground": "#ff876360",
@@ -373,7 +373,7 @@
         "variable.other.property.js"
       ],
       "settings": {
-        "foreground": "#e7843d",
+        "foreground": "#e73d8a",
         "fontStyle": ""
       }
     },
@@ -399,7 +399,7 @@
         "source.sass keyword.control"
       ],
       "settings": {
-        "foreground": "#f68a42"
+        "foreground": "#ea660e"
       }
     },
     {
