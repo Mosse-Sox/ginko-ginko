@@ -1,11 +1,24 @@
 {
   "name": "ginko-ginko",
-  "displayName": "Ginko-Ginko",
-  "description": "yellow color theme",
+  "displayName": "Ginko Ginko",
+  "description": "yellow, orange, blue, magenta color theme",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.82.0"
+  "publisher": "mossesox",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mosse-Sox/ginko-ginko"
   },
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "keywords": [
+    "ginko",
+    "color-theme",
+    "yellow",
+    "fall",
+    "colourful",
+    "autumn"
+  ],
   "categories": [
     "Themes"
   ],
@@ -14,7 +27,7 @@
       {
         "label": "Ginko Ginko",
         "uiTheme": "vs",
-        "path": "./themes/Ginko Ginko-color-theme.json"
+        "path": "./themes/ginko-ginko-color-theme.json"
       }
     ]
   }
