@@ -1,8 +1,13 @@
 # Ginko Ginko
 
-#### A color theme based on ginko leaves in the fall on a sunny day.
+#### A color theme based on ginko leaves in the fall on a sunny day. Enjoy!
 
-### Preview
+<br/>
+Note: this theme is still in development - some tokens are colored green until they can be located. If you find green text, please file an issue <a href='https://github.com/Mosse-Sox/ginko-ginko/issues'>here</a>.
+
+
+<hr/>
+## Preview
 
 - Javascript
   ![ginko ginko js highlighing](https://github.com/Mosse-Sox/ginko-ginko/blob/main/images/jsginko.png?raw=true)
@@ -21,3 +26,5 @@
 
 - Ruby/Rails
   ![ginko ginko ruby/rails highlighing](https://github.com/Mosse-Sox/ginko-ginko/blob/main/images/rubyrailsginko.png?raw=true)
+
+
