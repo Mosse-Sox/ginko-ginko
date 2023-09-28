@@ -21,6 +21,7 @@
 Note: this theme is still in development - some tokens are colored green until they can be located. If you find green text, please file an issue <a href='https://github.com/Mosse-Sox/ginko-ginko/issues'>here</a>.
 
 <hr/>
+
 ## Preview
 
 - Javascript
