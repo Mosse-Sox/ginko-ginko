@@ -1,16 +1,23 @@
-# ginko-ginko README
+# Ginko Ginko
 
-## Working with Markdown
+#### A color theme based on ginko leaves in the fall on a sunny day.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Preview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Javascript
+  ![ginko ginko js highlighing](https://github.com/Mosse-Sox/ginko-ginko/blob/main/images/jsginko.png?raw=true)
 
-## For more information
+- Typescript/tsx
+  ![ginko ginko ts highlighing](https://github.com/Mosse-Sox/ginko-ginko/blob/main/images/typescriptginko.png?raw=true)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- HTML
+  ![ginko ginko HTML highlighing](https://github.com/Mosse-Sox/ginko-ginko/blob/main/images/htmlginko.png?raw=true)
 
-**Enjoy!**
+- CSS
+  ![ginko ginko CSS highlighing](https://github.com/Mosse-Sox/ginko-ginko/blob/main/images/cssginko.png?raw=true)
+
+- SQL
+  ![ginko ginko SQL highlighing](https://github.com/Mosse-Sox/ginko-ginko/blob/main/images/sqlginko.png?raw=true)
+
+- Ruby/Rails
+  ![ginko ginko ruby/rails highlighing](https://github.com/Mosse-Sox/ginko-ginko/blob/main/images/rubyrailsginko.png?raw=true)
